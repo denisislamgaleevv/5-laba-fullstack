@@ -71,6 +71,10 @@
     height: 5px;
     margin-bottom: 5px;
 }
+.cross{
+  
+    display: none;
+}
 @media screen and (max-width: 970px) {
      
     .nav{
